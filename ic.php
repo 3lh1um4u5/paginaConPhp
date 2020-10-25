@@ -1,6 +1,7 @@
 <?php 
 	require_once"header.php";
 	require_once"menu.php";
+
 	
  ?>
  <body style="background-color:black;color:white">
@@ -23,5 +24,6 @@
 		El éxito de Image Comics cambió significativamente la posición de los autores dentro de la industria de historietas y la posicionó como la cuarta editorial más importante del género, detrás de las tres gigantes Marvel, DC y Dark Horse Comics.
 			</p>
  </body>
-
- 
+<?php 	
+require_once"footer.php";
+  ?>

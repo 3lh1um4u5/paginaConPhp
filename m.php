@@ -29,3 +29,6 @@
 					<img class="dim" src="img/hulk.jpg">
 					</p>
  	</body>
+ 	<?php 	
+require_once"footer.php";
+  ?>

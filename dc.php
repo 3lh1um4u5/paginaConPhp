@@ -2,6 +2,7 @@
 	require_once"header.php";
 	require_once"menu.php";
 	
+	
  ?>
  	<body c style="background-color:black;color:white" >	
  		<h1 class="titulos"> DC </h1>
@@ -66,3 +67,6 @@
 
  </body>
  
+<?php 	
+require_once"footer.php";
+  ?>

@@ -1,11 +1,15 @@
  
  .letras{
  	font-family: 'Architects Daughter', cursive; 		
+ 	/*justify-content:center;*/
+ 	text-justify;
  }
  .mish{
  	text-align:left;
-
  }
+ 
+
+ 
 .imgs{
 	image-rendering: optimizeQuality;	
 }

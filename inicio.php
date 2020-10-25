@@ -17,7 +17,7 @@
             <p class="letras">En el Antiguo Egipto, los primeros hechos que se han encontrado representados son unos petroglifos que datan de la época del primer rey Escorpión (hace más de 5000 años), algo más tarde encontramos las representaciones a los fines de maza y las paletas de varios soberanos protodinástico y del período arcaico, como la paleta de Narmer y la cabeza de maza del segundo rey Escorpión, expuesto al Museo Ashmolean. La necesidad de los soberanos egipcios de narrar su propia historia y hazañas, sobre todo en templos y tumbas, y la de los sacerdotes y el resto de altos funcionarios y nobles sobre ellos mismos y sobre su religión lleva a la creación una serie de obras artísticas donde se combinan dibujos y textos jeroglíficos, a menudo decoradas y estructuradas narrativamente mediante elementos arquitectónicos y otros elementos decorativos como cenefas y franjas de colores. Existen muchos ejemplos, algunos de los cuales son: </p>
             <br> 
             <p align="center"  class="imgs">  
-            <img src="img/son.png" alt="son" >
+            
               </p>
               <br>  
               <h2 class="mish">Las primeras historietas impresas</h2>
@@ -61,4 +61,3 @@
                 <br>  
                 <p  align="center" class="imgs"> <img src="img/ejem2.jpg" alt="ejem2"> Dominical de Krazy Cat de 1922 </p>
  </body>
- 
